@@ -1,0 +1,42 @@
+body{
+   
+    height: 300px;
+    background: linear-gradient(72deg, #bb2e2e 1%, #414142 99%);
+}
+
+.TdImage{
+    width: 80%; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tituloc{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+/* contatos */
+
+.text{
+    background-color: white;
+    width: 80%; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* texto dos cards */
+
+.card-text {
+    text-align: center;
+    color: white;
+}
+
+.valor {
+    text-align: center;
+    color: white;
+}
+
+.card-body {
+    background-color:gray;
+}
