@@ -1,0 +1,29 @@
+*{
+    color: white;
+}
+body{
+    padding: 0;
+    margin: 0;
+    background: linear-gradient(72deg, #bb2e2e 1%, #414142 99%);
+}
+.info{
+    color: white;
+    font-size: 5e;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    font-family:'Times New Roman', Times, serif;
+    position: absolute;
+    top: 36%;
+    left: 62%;
+    transform: translateX(-50%) translateY(-50%);
+    font-size: 25px;
+
+    
+}
+
+.maps{
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
