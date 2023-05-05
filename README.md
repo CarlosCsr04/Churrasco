@@ -1,10 +1,10 @@
-# Churrasco
+# Projeto Churrascaria
 
-Tema do projeto: Churrascaria
+Tema do projeto: Churrasco
 
 contém: cadastro, home page, menu dos produtos e contatos.
 
-conteudos: alguns cards, mapas e um carrosel, textos simples com estilização simples. 
+## conteudos: alguns cards, mapa, um carrosel, textos simples com estilização simples. 
 
 
 
